@@ -1,4 +1,4 @@
 # Workshops
 
 ## Table of contents
-* [Facial expression recognition](#FER)
+* [Facial expression recognition](#Facial-emotion-recognition)
